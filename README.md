@@ -1,9 +1,9 @@
 # QLSieuThiMini_JVS
 *************** THÔNG TIN VỀ PROJECT *************
 Xây dựng ứng dụng quản lý siêu thị (Java Swing)
-- Thiết kế các GUI
-- Xây dựng mô hình 3-Player (DTO,BUS,DAO)
-- Sử dụng JDBC để kết nối database
+- Thiết kế các GUI.
+- Xây dựng mô hình 3-Player (DTO,BUS,DAO).
+- Sử dụng JDBC để kết nối database.
 *************** TẠO DATABASE *************
 - B1: Khởi động XAMPP và Start Apache & MySQL
 - B1: Tạo tên database là "quanlysieuthimini" ở localhost/phpmyadmin trên XAMPP.
