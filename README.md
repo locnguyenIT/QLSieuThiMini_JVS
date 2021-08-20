@@ -1,7 +1,7 @@
 # QLSieuThiMini_JVS
-B1 : Tạo database "quanlysieuthimini" ở localhost/phpmyadmin trên XAMPP.
-B2 : Sau đó chọn mục Import trên thanh công cụ.
-B3 : Click choosefile chọn file quanlysieuthimini.sql ở trong project. Nhấn Go
+- B1 : Tạo database "quanlysieuthimini" ở localhost/phpmyadmin trên XAMPP.
+- B2 : Sau đó chọn mục Import trên thanh công cụ.
+- B3 : Click choosefile chọn file quanlysieuthimini.sql ở trong project. Nhấn Go
 
 ************* MỞ CHƯƠNG TRÌNH ****************
 - Click vào project và chọn Clean and Build để làm sạch project và chạy.
