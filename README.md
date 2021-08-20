@@ -13,5 +13,5 @@
 ************* MỞ CHƯƠNG TRÌNH ****************
 - Click vào project và chọn Clean and Build để làm sạch project và chạy.
 - Chương trình có 2 role.
-  Với Admin: Tên đăng nhập và mật khẩu đều là "Admin".
-  Với Nhân viên: Tên đăng nhập và mật khẩu đều là "Staff".
+- Với Admin: Tên đăng nhập và mật khẩu đều là "Admin".
+- Với Nhân viên: Tên đăng nhập và mật khẩu đều là "Staff".
