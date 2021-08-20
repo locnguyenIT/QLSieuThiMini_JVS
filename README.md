@@ -15,5 +15,6 @@
 - Chương trình có 2 role.
 - Với Admin: Tên đăng nhập và mật khẩu đều là "Admin".
 - Với Nhân viên: Tên đăng nhập và mật khẩu đều là "Staff".
-- Chức năng Export: file DanhSachSanPham.xlsx nằm ở trong folder "Data"
-- Chức năng Import: file list.xlsv nằm trong project
+- Chức năng Export: file DanhSachSanPham.xlsx nằm ở trong folder "data".
+- Chức năng Import: file list.xls nằm trong project.
+- Chức năng BILL (Hóa đơn & PNH): Tạo file PDF ở trong folder "billHD" & "billPNH".
