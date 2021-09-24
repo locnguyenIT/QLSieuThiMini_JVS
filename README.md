@@ -11,7 +11,7 @@
 - B3: Click choosefile chọn file "quanlysieuthimini.sql" ở trong project. Nhấn Go
 
 ************* MỞ CHƯƠNG TRÌNH ****************
-- Click vào project và chọn Clean and Build để làm sạch project và chạy.
+- Click vào project và chọn Clean and Build để làm sạch project và chọn class Login.java để chạy.
 - Chương trình có 2 role.
 - Với Admin: Tên đăng nhập và mật khẩu đều là "Admin".
 - Với Nhân viên: Tên đăng nhập và mật khẩu đều là "Staff".
